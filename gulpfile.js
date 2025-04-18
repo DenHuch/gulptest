@@ -22,7 +22,9 @@ function styles() {
 
 function scripts() {
 	return src([
-		'app/js/main.js',
+		'app/js/fancybox.umd.js',
+		'app/js/mixitup.min.js',
+		'app/js/main.js'
 	])
 		.pipe(concat('main.min.js'))
 		.pipe(uglify())
