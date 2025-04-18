@@ -1,0 +1,1 @@
+body{background-color:red}.box{padding:0}.box .test{margin:0}.box__item{width:100%}.box:before{display:block}.box__test{display:inline-block}p{display:flex;font-size:24px;display:grid;grid-row:50px;filter:blur(5px)}img{-webkit-mask-image:url("mask.svg");mask-image:url("mask.svg");overflow:scroll;-webkit-appearance:none;-moz-appearance:none;appearance:none}
